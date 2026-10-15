@@ -7,7 +7,7 @@
 [![Torchvision](https://img.shields.io/badge/Torchvision-0.15%2B-red)](https://pytorch.org/vision/stable/index.html)
 [![Model](https://img.shields.io/badge/Architecture-DeepLabV3%2B%20%28ResNet50%29-brightgreen)]()
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-orange.svg)](https://github.com/Aadarshttech/Drone-Image-Based-Landcover-Segmentation/pulls)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-orange.svg)](https://github.com/Mastermind305/Drone-Image-Based-Landcover-Segmentation/pulls)
 
 **Automated high-resolution landcover classification and semantic segmentation pipeline for UAV aerial drone orthomosaics.**
 
@@ -135,7 +135,7 @@ Drone-Image-Based-Landcover-Segmentation/
 ### 1. Clone & Set Up Environment
 
 ```bash
-git clone https://github.com/Aadarshttech/Drone-Image-Based-Landcover-Segmentation.git
+git clone https://github.com/Mastermind305/Drone-Image-Based-Landcover-Segmentation.git
 cd Drone-Image-Based-Landcover-Segmentation
 
 # Create and activate virtual environment (optional but recommended)
@@ -304,8 +304,7 @@ $$\text{Overall Pixel Accuracy} = \frac{\sum_{c} \text{TP}_c}{\text{Total Pixels
 
 ## 👥 Authors & Acknowledgments
 
-- **Aadarsh Pandita** ([@Aadarshttech](https://github.com/Aadarshttech))
-- **Aayush Gautam** ([@Mastermind305](https://github.com/Mastermind305))
+- **Aayush Gautam** ([@Mastermind305](https://github.com/Mastermind305)) • [gautamaayush305@gmail.com](mailto:gautamaayush305@gmail.com)
 
 Special thanks to the Butwal local municipality survey datasets and the open-source PyTorch & GeoPandas communities.
 

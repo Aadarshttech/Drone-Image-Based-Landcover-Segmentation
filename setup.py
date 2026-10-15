@@ -4,8 +4,8 @@ setup(
     name="drone-landcover-segmentation",
     version="1.0.0",
     description="Deep learning pipeline for high-resolution drone imagery landcover segmentation",
-    author="Aadarsh Pandita, Aayush Gautam",
-    author_email="aadarshapandit@gmail.com",
+    author="Aayush Gautam",
+    author_email="gautamaayush305@gmail.com",
     packages=find_packages(),
     python_requires=">=3.8",
     install_requires=[

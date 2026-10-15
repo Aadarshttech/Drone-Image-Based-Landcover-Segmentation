@@ -1,0 +1,52 @@
+﻿# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# PyTorch checkpoints and weights (except small test fixtures)
+*.pth
+*.pt
+*.onnx
+runs/
+checkpoints/
+
+# Virtual environments
+.env
+.venv
+env/
+venv/
+ENV/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+
+# IDE and OS files
+.vscode/
+.idea/
+*.swp
+*.swo
+.DS_Store
+Thumbs.db
+
+# Large GIS and dataset files (keep repo lightweight)
+*.tif
+*.tiff
+*.geotiff
+*.shp
+*.shx
+*.dbf
+*.prj
+*.cpg
+output/
+Output_mg/
+output11/
+output12/
+datasets/
+raw_data/
+
+# Logs and distribution
+*.log
+dist/
+build/
+*.egg-info/
